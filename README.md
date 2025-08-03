@@ -1,31 +1,26 @@
-# [CDV04] Custom Cover Letter for Junior React Developer Role
+# Cover Letter
 
-Welcome to the GitHub repository for the [CDV04] project, where students are tasked with crafting a compelling cover letter specifically tailored for the Junior React Developer position at Vulindlela. This project is designed to help you articulate your enthusiasm, suitability, and technical capabilities for this role, highlighting how your background aligns with Vulindlela's mission and the job requirements.
+Welcome to the GitHub repository for the my cover letter
 
-## Project Overview
+# Overview
+A professional and personalised cover letter application for the Junior React Developer position at Vulindlela. This document should serves as a direct communication channel between the hiring team and I, allowing you to make a memorable first impression.
 
-Your objective is to write a professional and personalised cover letter that enhances your application for the Junior React Developer position at Vulindlela. This document should serve as a direct communication channel between you and the hiring team, allowing you to make a memorable first impression.
+# How i tackled it
+- Forked the repo from github
+- Cloned it in my vs code 
+- Used goolgle docs to write my cover letter
 
 ### Job Advert: Vulindlela
 - **Position:** Junior React Developer
 - **Company:** Vulindlela
 - **Location:** Johannesburg, South Africa
 
-Vulindlela is seeking a talented and motivated Junior React Developer to assist in developing their innovative online payments platform. This role offers an exciting opportunity to contribute to the digital payments revolution in South Africa.
+### Emphasis
+- Demonstrated my enthusiasm and suitability for the Junior React Developer role.
+- Highlighted my skills and aspirations align with the company's mission and the demands of the role.
+- Created a professional and personalised cover letter that sets me apart from other candidates.
 
-### Project Objectives
-- Demonstrate your enthusiasm and suitability for the Junior React Developer role.
-- Highlight how your skills and aspirations align with the company's mission and the demands of the role.
-- Create a professional and personalised cover letter that sets you apart from other candidates.
-
-### Submission Guidelines
-1. Finalise your cover letter in a Google Docs format.
-2. Name your document as per the given format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV04").
-3. Add the link to your Google Docs cover letter in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
 
 ### Link to Cover Letter
-[Your Google Docs Cover Letter](<insert your Google Docs link here>)
-
-For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
+(<https://docs.google.com/document/d/1lFOc9pn60XMVpcp9OHQqIbff_FGCZodBAp4YZm36EHA/edit?tab=t.0>)
 
